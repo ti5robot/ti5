@@ -1,7 +1,7 @@
 # ti5
 钛虎机器人TI5
 
-复制到工作区src目录下，建立一个文件夹，把ti5_description文件夹复制进去
+在工作区/src目录下git 
 
 切换到工作区目录下，执行catkin_make
 
