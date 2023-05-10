@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ti5_description
+    relative_path: urdf/arm3handle.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/arm3handle.srdf
+  CONFIG:
+    author_name: peter
+    author_email: gcbchina@gmail.com
+    generated_timestamp: 1683704756
