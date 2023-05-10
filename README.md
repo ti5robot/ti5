@@ -1,7 +1,7 @@
 # ti5
 钛虎机器人TI5
 
-在工作区/src目录下git 
+在工作区/src目录下git clone https://github.com/ti5robot/ti5.git
 
 切换到工作区目录下，执行catkin_make
 
