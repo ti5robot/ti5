@@ -5,11 +5,17 @@
 安装本软件包:
 先创建catkin工作空间。 然后将本文件夹克隆到src/目录下，rosdep安装必须的包，用catkin_make来编译。
 需要运行的命令如下,假设工作区在~/ros_ws：
+
 cd ~/ros_ws/src
+
 git clone https://github.com/ti5robot/ti5.git
+
 cd ..
+
 rosdep install --from-paths src --ignore-src -r -y
+
 catkin_make
+
 source devel/setup.bash
 
 使用仿真模型
