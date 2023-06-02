@@ -21,6 +21,7 @@ catkin_make
 
 source devel/setup.bash
 
+
 使用仿真模型
 
 下面给出的是启动钛虎机械臂的一系列命令。启动arm1、arm2、arm3、arm5的方法类似，只要在相应的地方替换掉相应的前缀即可。
@@ -37,6 +38,7 @@ source devel/setup.bash
 
 
 关于MoveIt!的使用方法可以参考docs/moveit_plugin_tutorial.md
+
 
 使用真实的钛虎机器人
 
